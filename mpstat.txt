@@ -1,0 +1,4 @@
+Linux 4.15.0-55-generic (Lenovo-G450) 	Sunday 24 November 2019 	_x86_64_	(2 CPU)
+
+11:14:48  IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:14:48  IST  all    9.50    8.95    4.05    1.07    0.00    0.02    0.00    0.00    0.00   76.41
